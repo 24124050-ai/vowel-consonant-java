@@ -23,10 +23,6 @@ public class VowelConsonant {
         System.out.println("Consonants = " + consonants);
     }
 }
-## Program Output
-
-Input:
-hello world
 
 Output:
 Vowels = 3
